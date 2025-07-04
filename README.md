@@ -21,3 +21,7 @@
 | **Tree & Graph** | 144. Binary Tree Preorder Traversal                    | Easy       | Basic tree traversal         |
 |             | 200. Number of Islands                                    | Medium     | DFS/BFS graph traversal      |
 |             | 207. Course Schedule                                      | Medium     | Topological sort, cycle detection |
+
+
+
+Done list: 
